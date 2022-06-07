@@ -3,7 +3,7 @@ layout: home
 excerpt: "毕业出闲置"
 show_excerpts: true
 paginate: true
-entries_layout: grid
+entries_layout: list
 ---
 详情请看下面的链接。
 - **电脑相关**：显示器，打印机，GTX1650，500W电源，显示器支架
