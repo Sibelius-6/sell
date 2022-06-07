@@ -9,9 +9,9 @@ VIVO Extra Tall Single LCD Computer Monitor Free-Standing Adjustable Desk Stand 
 
 40刀
 
-![](/pics/vivo1.jpg)
+![](/sell/pics/vivo1.jpg)
 
-![](/pics/vivo2.jpg)
+![](/sell/pics/vivo2.jpg)
 
 
 ## 爱格升电脑支架
@@ -19,5 +19,5 @@ VIVO Extra Tall Single LCD Computer Monitor Free-Standing Adjustable Desk Stand 
 
 120 刀
 
-![](/pics/erg.jpg)
+![](/sell/pics/erg.jpg)
 
