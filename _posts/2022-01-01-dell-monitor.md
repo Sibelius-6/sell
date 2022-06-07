@@ -7,3 +7,5 @@ title: "Dell Monitor"
 ![](https://via.placeholder.com/200)
 
 ![](https://via.placeholder.com/300)
+
+![](https://picsum.photos/200/300)
