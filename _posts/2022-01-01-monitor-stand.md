@@ -14,10 +14,4 @@ $40
 ![](/sell/pics/vivo2.jpg)
 
 
-## 爱格升电脑支架
-[amazon](https://www.amazon.ca/gp/product/B00358RIRC/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) ：ERGOTRON 45-241-026 LX Desk Mount LCD Arm
-
-$120 
-
-![](/sell/pics/erg.jpg)
 
